@@ -1,0 +1,10 @@
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\bin\Debug\KeSeObesamm.exe.config
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\bin\Debug\KeSeObesamm.exe
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\bin\Debug\KeSeObesamm.pdb
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\obj\Debug\KeSeObesamm.csproj.AssemblyReference.cache
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\obj\Debug\KeSeObesamm.Form1.resources
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\obj\Debug\KeSeObesamm.Properties.Resources.resources
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\obj\Debug\KeSeObesamm.csproj.GenerateResource.cache
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\obj\Debug\KeSeObesamm.csproj.CoreCompileInputs.cache
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\obj\Debug\KeSeObesamm.exe
+C:\Users\Com\VP_vol2\KeSeObesamm\KeSeObesamm\obj\Debug\KeSeObesamm.pdb
